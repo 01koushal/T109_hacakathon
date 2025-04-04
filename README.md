@@ -1,11 +1,11 @@
-# 💧 Water Forecasting & Reservoir Assessment | TEAM ID: T109
+Water Forecasting & Reservoir Assessment | TEAM ID: T109
 
-### 🔍 Problem Statement
+Problem Statement
 Forecasting Future Water Requirements and Assessing Storage Capacities in Reservoirs (Student Innovation - SIH2025)
 
 ---
 
-### 📈 Solution Overview
+Solution Overview
 
 Our project addresses the growing demand on water resources by:
 - Forecasting future water usage using historical data + population + rainfall trends
@@ -15,7 +15,7 @@ Our project addresses the growing demand on water resources by:
 
 ---
 
-### 🧠 Technologies Used
+Technologies Used
 - Python
 - Linear Regression (scikit-learn)
 - Data Visualization (matplotlib)
